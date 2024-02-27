@@ -7,7 +7,7 @@ export default function Header() {
       <div className="flex justify-between items-center max-w-6xl mx-auto p-3">
         <Link to="/">
           <h1 className="font-bold">
-            <span className="text-slate-700">Authentication</span>App
+            <span className="text-slate-700">Authentication</span>Layer
           </h1>
         </Link>
         <ul className="flex gap-4">
